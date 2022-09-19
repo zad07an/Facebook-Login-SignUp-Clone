@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+  font-family: sans-serif;
+}
+
+.header {
+  width: 100%;
+  height: 109px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 5px;
+  background: #F0F2F5;
+}
+
+.facebookLogo {
+  width: 284px;
+  height: 100%;
+}

@@ -1,0 +1,232 @@
+.registerContainer {
+  width: 100%;
+  height: 647.57px;
+  background: #F0F2F5;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding-top: 5px;
+}
+
+.registerForm {
+  width: 431px;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.246);
+  overflow: hidden;
+}
+
+.registerFormTitleBox {
+  width: 100%;
+  height: 76px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 5px;
+  border-bottom: 1px solid #D9DCE0;
+}
+
+.registerFormTitle {
+  font-size: 25px;
+}
+
+.registerFormSubtitle {
+  font-size: 15px;
+}
+
+.registerFormInputsBox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 16px;
+}
+
+.fnlnInputBox {
+  width: 100%;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.fnInput {
+  width: 50%;
+  height: 40px;
+  padding: 11px;
+  border: 1px solid #D9DCE0;
+  border-radius: 5px;
+  font-size: 15px;
+  outline: 0;
+}
+
+.mobilePasswordInputBox {
+  width: 100%;
+  height: 50px;
+}
+
+.lnInput {
+  width: 50%;
+  height: 40px;
+  padding: 11px;
+  border: 1px solid #D9DCE0;
+  border-radius: 5px;
+  font-size: 15px;
+  outline: 0;
+}
+
+.mobilePasswordInputBox {
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 5px;
+}
+
+.mobileInput {
+  width: 100%;
+  min-height: 40px;
+  font-size: 15px;
+  padding: 11px;
+  border: 1px solid #D9DCE0;
+  border-radius: 5px;
+  outline: 0;
+}
+
+.passwordInput {
+  width: 100%;
+  min-height: 40px;
+  font-size: 15px;
+  padding: 11px;
+  border: 1px solid #D9DCE0;
+  border-radius: 5px;
+  outline: 0;
+}
+
+.birthdayTextBox {
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  margin: 10px 0;
+}
+
+.birthdayText {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  margin-left: 3px;
+  font-size: 12px;
+  color: #606770;
+}
+
+.birthdaySelectBox {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.birthdaySelectInput {
+  width: 125px;
+  height: 36px;
+  border-radius: 5px;
+  border: 1px solid #D9DCE0;
+  padding-left: 3px;
+  font-size: 15px;
+  outline: 0;
+}
+
+.genderTextBox {
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 10px 0;
+}
+
+.genderText {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  margin-left: 3px;
+  font-size: 12px;
+  color: #606770;
+}
+
+.genderChooseBox {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.chooseBox {
+  width: 125px;
+  height: 36px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 10px;
+  border: 1px solid #D9DCE0;
+  border-radius: 5px;
+  font-size: 15px;
+}
+
+.learnMoreTextBox {
+  width: 100%;
+  margin: 10px 0;
+}
+
+.learnMoreText {
+  font-size: 11px;
+  color: #777777;
+}
+
+.cookiesTextBox {
+  width: 100%;
+  margin: 10px 0;
+}
+
+.cookiesText {
+  font-size: 11px;
+  color: #777777;
+}
+
+.links {
+  color: #385898;
+}
+
+.submitButtonBox {
+  width: 100%;
+  height: 56px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.haveAnAccountLinkBox {
+  padding: 10px 0;
+}
+
+.haveAnAccountLink {
+  color: #1877f2;
+  font-size: 17px;
+}
+
+.submitButton {
+  width: 194px;
+  height: 36px;
+  font-size: 19px;
+  font-weight: bold;
+  border-radius: 7px;
+  border: none;
+  background: #00A400;
+  color: #fff;
+}
